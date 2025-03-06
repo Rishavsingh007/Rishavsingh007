@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Singh</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Data Scientist from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavsingh007&label=Profile%20views&color=0e75b6&style=flat" alt="rishavsingh007" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **AI and ML**
 
-- 💬 Ask me about **PHP, Flutter**
+- 💬 Ask me about **PHP, Flutter, Data Science**
 
 - 📫 How to reach me **s.rishav@outlook.com**
 
